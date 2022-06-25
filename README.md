@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-➡️ [more videos...](https://youtube.com/binpipe)
+➡️ [more videos...](https://www.youtube.com/c/CloudDevOpsHub/)
   
   <details>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 [<img src="https://github.com/prasanjit-/prasanjit-/blob/master/prasanjit_podcast_logo.gif" alt="Cloud Engineering Podcast" width="350" />](https://open.spotify.com/show/56H7h3LHHyMSiAv5i2NurV)
 <hr/>
 
-<a href="https://www.youtube.com/channel/UCPTgt4Wo0MAnuzNEEZlk90A?sub_confirmation=1"><img src="https://img.shields.io/badge/BINPIPE-YouTube-red" alt="YouTube_Channel"></a>
-<a href="https://github.com/BINPIPE/resources/blob/master/devops-lesson-plans.md"><img src="https://img.shields.io/badge/BINPIPE-Learning_Resources-orange" alt="Learning"></a>
+<a href="https://www.youtube.com/c/CloudDevOpsHub/?sub_confirmation=1"><img src="https://img.shields.io/badge/CloudDevOpsHub-YouTube-red" alt="YouTube_Channel"></a>
+<a href="https://github.com/BINPIPE/resources/blob/master/devops-lesson-plans.md"><img src="https://img.shields.io/badge/CloudDevOpsHub-Learning_Resources-orange" alt="Learning"></a>
 <a href="https://blog.binpipe.org"><img src="https://img.shields.io/badge/BINPIPE-Blogs_and_Tutorials-blue" alt="Blogs_and_Tutorials"></a>
 <a href="https://forms.gle/tDJxDyj2nJyfsgsk7"><img src="https://img.shields.io/badge/BINPIPE-Live_Sessions-gold" alt="Sessions"></a>
 <a href="https://www.linkedin.com/in/prasanjit-singh"><img src="https://img.shields.io/badge/Contact-Prasanjit_Singh-black" alt="Prasanjit_Singh"></a>
