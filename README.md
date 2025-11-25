@@ -1,42 +1,61 @@
-### Hi there 👋
+<!-- Banner / Hero Section -->
+<p align="center">
+  <img src="https://img.shields.io/badge/CloudDevOpsHub-Learn%20%7C%20Build%20%7C%20Get%20Hired-blue?style=for-the-badge&logo=azure-pipelines" />
+</p>
 
-<!--
-**CloudDevOpsHub/CloudDevOpsHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">☁️ CloudDevOpsHub 🚀</h1>
+<h3 align="center">Learn | Build | Get Hired — Lakshya 40 LPA+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/github/stars/CloudDevOpsHub?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/github/followers/CloudDevOpsHub?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Community-15K%2B%20Learners-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Real--Time-Projects-orange?style=flat-square" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-➡️ [more videos...](https://www.youtube.com/c/CloudDevOpsHub/)
-  
-  <details>
-  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
-  <br/>
-    <p align="center">
-        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=prasanjit-&hide_border=true&theme=nightowl" />
-    </p>
-    <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=prasanjit-&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanjit-&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
-    </p>
-</details>
-<hr/>
+## **🌟 About CloudDevOpsHub**
+CloudDevOpsHub is **India’s fastest growing community for Cloud, DevOps & AI Engineers**, focused on enabling professionals to build **job-ready skills, real-time projects, interview confidence, and high-package opportunities**.
 
-### 🎧 Cloud Engineering Podcast (Learn On the Move!)
+🎯 **Mission**: Transform Students & Working Professionals into High-Package Cloud/DevOps Engineers  
+💼 **Goal**: 20 LPA | 30 LPA | **40 LPA+ Career Outcomes**
 
-[<img src="https://github.com/prasanjit-/prasanjit-/blob/master/prasanjit_podcast_logo.gif" alt="Cloud Engineering Podcast" width="350" />](https://open.spotify.com/show/56H7h3LHHyMSiAv5i2NurV)
-<hr/>
+---
 
-<a href="https://www.youtube.com/c/CloudDevOpsHub/?sub_confirmation=1"><img src="https://img.shields.io/badge/CloudDevOpsHub-YouTube-red" alt="YouTube_Channel"></a>
-<a href="https://github.com/BINPIPE/resources/blob/master/devops-lesson-plans.md"><img src="https://img.shields.io/badge/CloudDevOpsHub-Learning_Resources-orange" alt="Learning"></a>
-<a href="https://blog.binpipe.org"><img src="https://img.shields.io/badge/BINPIPE-Blogs_and_Tutorials-blue" alt="Blogs_and_Tutorials"></a>
-<a href="https://forms.gle/tDJxDyj2nJyfsgsk7"><img src="https://img.shields.io/badge/BINPIPE-Live_Sessions-gold" alt="Sessions"></a>
-<a href="https://www.linkedin.com/in/prasanjit-singh"><img src="https://img.shields.io/badge/Contact-Prasanjit_Singh-black" alt="Prasanjit_Singh"></a>
-<a href="https://guitar.binpipe.org"><img src="https://img.shields.io/badge/♫-Guitar_Notes-silver" alt="Guitar"></a>
+## **🚀 What Makes Us Different**
+- Real-Time Industry Projects
+- Multi-Cloud + DevOps + AI Skill Integration
+- Resume + LinkedIn + GitHub Portfolio Building
+- Interview Preparation & Mock Interviews
+- Placement Support & Strategy
+- Community-Driven Growth
+
+---
+
+## **🛠 Tech Stack & Tools We Cover**
+| Cloud | DevOps Tools | CI/CD | Automation | AI & ML |
+|--------|-------------|--------|-------------|------------|
+| AWS | Docker | GitHub Actions | Ansible | Gen-AI in DevOps |
+| Azure | Kubernetes (K8s) | Jenkins | Terraform | AI-Automation |
+| GCP | Helm | ArgoCD | Python | LLM-based Scripting |
+
+---
+
+## **🏆 Community Impact**
+📌 **15,000+ Members Trained**  
+📌 Workshops, Hackathons & Live Project Experience  
+📌 LinkedIn Success Stories & Placement Highlights  
+
+> **Real Skills → Real Projects → Real Results**
+
+---
+
+## **📍 Projects Roadmap**
+```markdown
+[✔] Project-1 : CI/CD Pipeline (SpringBoot + Docker + Jenkins)
+[✔] Project-2 : Infrastructure Automation using Terraform + Ansible
+[ ] Project-3 : Kubernetes + Helm Deployment
+[ ] Project-4 : Monitoring Stack (Prometheus + Grafana)
+[ ] Project-5 : GitHub Actions End-to-End Pipeline
+[ ] Project-6 : Multi-Cloud Migration
