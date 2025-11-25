@@ -1,61 +1,56 @@
-<!-- Banner / Hero Section -->
+<!-- 3D Futuristic Header -->
 <p align="center">
-  <img src="https://img.shields.io/badge/CloudDevOpsHub-Learn%20%7C%20Build%20%7C%20Get%20Hired-blue?style=for-the-badge&logo=azure-pipelines" />
+<pre>
+██████╗██╗      ██████╗ ██╗   ██╗██████╗ ██████╗ ███████╗██████╗ ██╗   ██╗███████╗██╗  ██╗██╗   ██╗██████╗ ██╗  ██╗
+██╔════╝██║     ██╔═══██╗██║   ██║██╔══██╗██╔══██╗██╔════╝██╔══██╗██║   ██║██╔════╝╚██╗██╔╝██║   ██║██╔══██╗██║  ██║
+██║     ██║     ██║   ██║██║   ██║██████╔╝██████╔╝█████╗  ██████╔╝██║   ██║█████╗   ╚███╔╝ ██║   ██║██████╔╝███████║
+██║     ██║     ██║   ██║██║   ██║██╔══██╗██╔══██╗██╔══╝  ██╔══██╗██║   ██║██╔══╝   ██╔██╗ ██║   ██║██╔══██╗██╔══██║
+╚██████╗███████╗╚██████╔╝╚██████╔╝██║  ██║██║  ██║███████╗██║  ██║╚██████╔╝███████╗██╔╝ ██╗╚██████╔╝██║  ██║██║  ██║
+ ╚═════╝╚══════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
+</pre>
 </p>
 
-<h1 align="center">☁️ CloudDevOpsHub 🚀</h1>
-<h3 align="center">Learn | Build | Get Hired — Lakshya 40 LPA+</h3>
+<h2 align="center">🤖 Empowering Engineers With Cloud • DevOps • AI • Automation 🚀</h2>
+<h3 align="center">🎯 Mission: Lakshya 40 LPA+ — Learn | Build | Get Hired</h3>
+
+---
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/CloudDevOpsHub?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/github/followers/CloudDevOpsHub?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Community-15K%2B%20Learners-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Real--Time-Projects-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI%20Powered-Learning-red?style=for-the-badge&logo=OpenAI" />
+  <img src="https://img.shields.io/badge/DevOps-Projects%20%26%20Automation-blue?style=for-the-badge&logo=github-actions" />
+  <img src="https://img.shields.io/badge/Community-15K%2B%20Learners-green?style=for-the-badge&logo=people" />
 </p>
 
 ---
 
-## **🌟 About CloudDevOpsHub**
-CloudDevOpsHub is **India’s fastest growing community for Cloud, DevOps & AI Engineers**, focused on enabling professionals to build **job-ready skills, real-time projects, interview confidence, and high-package opportunities**.
+## 🌟 **About CloudDevOpsHub**
+**CloudDevOpsHub** is India’s fastest-growing online community that blends **Cloud + DevOps + AI** to produce **industry-ready engineers** with real-time hands-on skills and high-package placement outcomes.
 
-🎯 **Mission**: Transform Students & Working Professionals into High-Package Cloud/DevOps Engineers  
-💼 **Goal**: 20 LPA | 30 LPA | **40 LPA+ Career Outcomes**
-
----
-
-## **🚀 What Makes Us Different**
-- Real-Time Industry Projects
-- Multi-Cloud + DevOps + AI Skill Integration
-- Resume + LinkedIn + GitHub Portfolio Building
-- Interview Preparation & Mock Interviews
-- Placement Support & Strategy
-- Community-Driven Growth
+✨ **Vision:** Build India’s strongest Cloud & DevOps talent pipeline  
+🚀 **Goal:** 20 LPA | 30 LPA | **40+ LPA** Career Transformations  
+🤝 **Approach:** Learn → Build → Showcase → Connect → Get Hired
 
 ---
 
-## **🛠 Tech Stack & Tools We Cover**
-| Cloud | DevOps Tools | CI/CD | Automation | AI & ML |
-|--------|-------------|--------|-------------|------------|
-| AWS | Docker | GitHub Actions | Ansible | Gen-AI in DevOps |
-| Azure | Kubernetes (K8s) | Jenkins | Terraform | AI-Automation |
-| GCP | Helm | ArgoCD | Python | LLM-based Scripting |
+## 🧠 **What Makes Us Different**
+| Real-World Skills | AI-Enhanced Training | Real Projects | Portfolio Building | Interview & Placement Help |
+|------------------|---------------------|----------------|--------------------|----------------------------|
+| Hands-on Labs | AI tools + automation | Real use-cases | GitHub + LinkedIn branding | Mock interview support |
 
 ---
 
-## **🏆 Community Impact**
-📌 **15,000+ Members Trained**  
-📌 Workshops, Hackathons & Live Project Experience  
-📌 LinkedIn Success Stories & Placement Highlights  
-
-> **Real Skills → Real Projects → Real Results**
+## ⚙️ **Tech Stack & Tools**
+**Cloud**: AWS | Azure | GCP  
+**DevOps**: Docker | Kubernetes | Jenkins | GitHub Actions | ArgoCD  
+**IaC / Automation**: Terraform | Helm | Ansible  
+**AI + Automation**: LLM-based DevOps Scripting | Gen-AI Workflows
 
 ---
 
-## **📍 Projects Roadmap**
+## 📍 **Projects Roadmap**
 ```markdown
-[✔] Project-1 : CI/CD Pipeline (SpringBoot + Docker + Jenkins)
-[✔] Project-2 : Infrastructure Automation using Terraform + Ansible
-[ ] Project-3 : Kubernetes + Helm Deployment
-[ ] Project-4 : Monitoring Stack (Prometheus + Grafana)
-[ ] Project-5 : GitHub Actions End-to-End Pipeline
-[ ] Project-6 : Multi-Cloud Migration
+[✔] Project-1 : CI/CD Pipeline (Docker + Jenkins + Deploy Pipeline)
+[✔] Project-2 : IaC Automation (Terraform + Ansible)
+[ ] Project-3 : Kubernetes Deployment with Helm
+[ ] Project-4 : Monitoring using Prometheus + Grafana
+[ ] Project-5 : AI in DevOps Automation Workflow
